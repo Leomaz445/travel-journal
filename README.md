@@ -68,7 +68,7 @@ travel-journal/
 ```
 
 ## Screenshots
-![Travel Journal Screenshot](public/images/screenshot.png)
+![image](https://github.com/user-attachments/assets/fa11686b-6f70-475e-a115-3bf035a317a3)
 
 ## Future Enhancements
 - **User Authentication**: Allow users to create accounts and save their travel journals.
