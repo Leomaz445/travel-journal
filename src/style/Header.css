@@ -1,0 +1,29 @@
+.header--box {
+    width: 550px;
+    height: 55px;
+    background: #F55A5A;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 60px;
+
+  }
+  
+  .header--logo {
+    width: 24px;
+    height: 24px;
+    padding:0px;
+    margin: 0px;
+    
+  }
+  
+  .header--name {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 10px;
+    line-height: 17.5px;
+    letter-spacing: -0.075em;
+    color: #FFFFFF;
+    margin-left: 10px;
+  }
